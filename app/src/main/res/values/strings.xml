@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Deezefy</string>
+    <string name="logar">Logar</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="nome_artistico">Nome artistico</string>
+    <string name="nome">Nome</string>
+    <string name="biografia">Biografia</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="telefone">Telefone</string>
+    <string name="registrar">Registrar</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="data_nascimento">Data nascimento</string>
+    <string name="ano_de_formacao">Ano de formacao</string>
+    <string name="ouvinte">Ouvinte</string>
+    <string name="artista">Artista</string>
+    <string name="duracao">duracao</string>
+</resources>

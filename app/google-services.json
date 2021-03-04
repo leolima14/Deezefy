@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283117560455",
+    "project_id": "deezefy-796db",
+    "storage_bucket": "deezefy-796db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283117560455:android:2e2d7168a97d4941f60e22",
+        "android_client_info": {
+          "package_name": "com.example.deezefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283117560455-pdlbaksim6beh0dgt2nl0hp1k143r6ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76Fx8_iAKkfICq5-5wb13eXManafSyPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283117560455-pdlbaksim6beh0dgt2nl0hp1k143r6ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
